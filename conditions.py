@@ -15,6 +15,4 @@ while True:
         smallest = num
 
 print("Maximum", largest)
-print("Minimum", smallest) 
-print("this is me testing the git branching technique") 
-print("i hope it will work")  
+print("Minimum", smallest)    
