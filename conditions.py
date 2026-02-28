@@ -15,4 +15,5 @@ while True:
         smallest = num
 
 print("Maximum", largest)
-print("Minimum", smallest)    
+print("Minimum", smallest)   
+print(" this programm works ver well") 
